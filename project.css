@@ -1,0 +1,49 @@
+.heading{
+    height: 100px;
+    background-color:lightskyblue;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+}
+.ss{
+    height: 180px;
+    background-color:lightblue;
+}
+.ss:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.ss button{
+    margin-left: 750px;
+    border-radius: 5px;
+}
+.qr{
+    height: 180px;
+    background-color:rgb(56, 183, 214);
+}
+.qr:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.qr button{
+    margin-left: 750px;
+    border-radius: 5px;
+}
+.sp{
+    height: 180px;
+    background-color:rgb(106, 190, 218);
+}
+.sp:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.sp button{
+    margin-left: 750px;
+    border-radius: 5px;
+}
+div h1{
+    padding-top: 10px;
+    text-align: center;
+}
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+}
